@@ -1,1 +1,2 @@
 Write some lines of text.
+Developer 1 makes some changes to text file.
